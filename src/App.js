@@ -15,7 +15,7 @@ function App() {
   }
   return (
     <div className='w-[100vw] h-[100vh] flex justify-center items-center bg-[#344151]'>
-      <div className='flex items-center bg-[#233040] flex-col gap-10 py-10 px-10 border-4 rounded-sm ' >
+      <div className='flex items-center bg-[#344151] flex-col gap-10 py-10 px-10 border-4 rounded-sm ' >
         <div>
           <h1 className='text-[#0398d4] text-2xl font-medium'>Incerment & Decrement</h1>
         </div>
